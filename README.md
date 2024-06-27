@@ -18,9 +18,9 @@ Initially Anthropic-claude / ChatOpenAI model was chosen , but due to these mode
 
 ## Results
  The model was trained for 7 epochs: 
- ![Training Summary Image]()
+ ![Training Summary Image](https://github.com/eshan1347/GPT-NEO-LORA/blob/main/Screenshot%20from%202024-06-27%2015-23-50.png)
 
  Difference between original model(below) and fine tuned one (above):
- ![Difference between outputs of the two models]()
+ ![Difference between outputs of the two models](https://github.com/eshan1347/GPT-NEO-LORA/blob/main/Screenshot%20from%202024-06-27%2015-42-27.png)
 
  
